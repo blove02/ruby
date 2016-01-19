@@ -1,0 +1,1 @@
+puts "Heck yeah! This is my frist ruby script!"
